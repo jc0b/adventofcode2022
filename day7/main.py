@@ -1,4 +1,3 @@
-import random
 def part_one(file):
 	input = open(file, 'r')
 	Lines = input.readlines()
